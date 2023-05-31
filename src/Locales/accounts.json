@@ -1,0 +1,32 @@
+{
+    "accounts": [
+        {
+            "id": 1,
+            "type": "saving accounts",
+            "accountID": "2-120-00000054-9",
+            "nickname": "Kim Su Joong",
+            "amount": 1452485654.45
+        },
+        {
+            "id": 2,
+            "type": "Current accounts",
+            "accountID": "2-120-00000054-9",
+            "nickname": "Kim Su Joong",
+            "amount": 1452485654.45
+        },
+        {
+            "id": 3,
+            "type": "Fixed accounts",
+            "accountID": "2-120-00000054-9",
+            "nickname": "Kim Su Joong",
+            "amount": 1452485654.45
+        },
+        {
+            "id": 4,
+            "type": "saving accounts",
+            "accountID": "2-120-00000054-9",
+            "nickname": "Kim Su Joong",
+            "amount": 1452485654.45
+        }
+    ]
+}
